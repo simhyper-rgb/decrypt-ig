@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Decrypt TikTok picks</title>
+    <link>https://decrypt.co</link>
+    <description>Decrypt stories picked for TikTok (2-3 a day, rule-based): tile + caption, title max 90 chars.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Nov 2026 18:09:39 GMT</lastBuildDate>
+    <ttl>5</ttl>
+    <atom:link href="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiktok.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?</title>
+      <link>https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst</link>
+      <description>A Friday rebound offered relief after a historic selloff. The question now is whether politics and mounting debt could turn an AI correction into something much worse.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #ai</description>
+      <guid isPermaLink="false">decrypt-tt-382770-0cadc17c71</guid>
+      <pubDate>Sat, 07 Nov 2026 18:09:39 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382770-0cadc17c71.jpg" length="407790" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382770-0cadc17c71.jpg" type="image/jpeg" medium="image" fileSize="407790" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382770-0cadc17c71.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say</title>
+      <link>https://decrypt.co/382714/sony-axing-game-discs-will-have-outsized-impact-on-low-income-gamers-experts-say</link>
+      <description>Experts say a disc-free PlayStation will price out low-income players, while in much of Africa, digital-only gaming means breaking Sony’s rules.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #web3gaming #cryptonews</description>
+      <guid isPermaLink="false">decrypt-tt-382714-09c8c5b953</guid>
+      <pubDate>Sat, 07 Nov 2026 14:21:24 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382714-09c8c5b953.jpg" length="368420" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382714-09c8c5b953.jpg" type="image/jpeg" medium="image" fileSize="368420" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382714-09c8c5b953.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Treasury Cuts Crypto Exchange MEXC Off From US Financial System</title>
+      <link>https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system</link>
+      <description>FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 billion in illicit finance tied to Iran, North Korea and Russia.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #web3</description>
+      <guid isPermaLink="false">decrypt-tt-382758-574bcabfab</guid>
+      <pubDate>Fri, 06 Nov 2026 21:18:49 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382758-574bcabfab.jpg" length="455040" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382758-574bcabfab.jpg" type="image/jpeg" medium="image" fileSize="455040" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382758-574bcabfab.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi</title>
+      <link>https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi</link>
+      <description>Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #defi</description>
+      <guid isPermaLink="false">decrypt-tt-382756-ae96d83d20</guid>
+      <pubDate>Fri, 06 Nov 2026 21:11:56 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382756-ae96d83d20.jpg" length="499607" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382756-ae96d83d20.jpg" type="image/jpeg" medium="image" fileSize="499607" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382756-ae96d83d20.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker</title>
+      <link>https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker</link>
+      <description>Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permissioned Hyperliquid markets, pending regulatory approval.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #hyperliquid #cryptoregulation</description>
+      <guid isPermaLink="false">decrypt-tt-382754-c205355cd9</guid>
+      <pubDate>Fri, 06 Nov 2026 19:52:16 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382754-c205355cd9.jpg" length="380244" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382754-c205355cd9.jpg" type="image/jpeg" medium="image" fileSize="380244" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382754-c205355cd9.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears</title>
+      <link>https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears</link>
+      <description>Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Peña.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #web3</description>
+      <guid isPermaLink="false">decrypt-tt-382740-0f22c349c8</guid>
+      <pubDate>Fri, 06 Nov 2026 19:20:38 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382740-0f22c349c8.jpg" length="337393" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382740-0f22c349c8.jpg" type="image/jpeg" medium="image" fileSize="337393" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382740-0f22c349c8.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers</title>
+      <link>https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street</link>
+      <description>Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptomarket #bitcoin #bitcoinetf</description>
+      <guid isPermaLink="false">decrypt-tt-382733-5b85138d46</guid>
+      <pubDate>Fri, 06 Nov 2026 18:47:07 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382733-5b85138d46.jpg" length="385021" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382733-5b85138d46.jpg" type="image/jpeg" medium="image" fileSize="385021" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382733-5b85138d46.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group</title>
+      <link>https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group</link>
+      <description>OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #web3</description>
+      <guid isPermaLink="false">decrypt-tt-382730-6f89a40732</guid>
+      <pubDate>Fri, 06 Nov 2026 17:45:32 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382730-6f89a40732.jpg" length="393221" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382730-6f89a40732.jpg" type="image/jpeg" medium="image" fileSize="393221" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382730-6f89a40732.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data</title>
+      <link>https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data</link>
+      <description>Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise card platform was untouched.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #tech #cybersecurity</description>
+      <guid isPermaLink="false">decrypt-tt-382718-6e54d0e053</guid>
+      <pubDate>Fri, 06 Nov 2026 16:45:27 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382718-6e54d0e053.jpg" length="368484" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382718-6e54d0e053.jpg" type="image/jpeg" medium="image" fileSize="368484" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382718-6e54d0e053.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low</title>
+      <link>https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock</link>
+      <description>Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptomarket #bitcoin #ai</description>
+      <guid isPermaLink="false">decrypt-tt-382717-dc0bcbb435</guid>
+      <pubDate>Fri, 06 Nov 2026 16:40:32 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382717-dc0bcbb435.jpg" length="334287" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382717-dc0bcbb435.jpg" type="image/jpeg" medium="image" fileSize="334287" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382717-dc0bcbb435.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Anthropic IPO Valuation Could Fall to $1 Trillion After AI Stock Rout: Report</title>
+      <link>https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report</link>
+      <description>Investors told The Wall Street Journal that the $1.5 trillion target now looks too high, as prediction markets bet on a December listing.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #ai #predictionmarkets</description>
+      <guid isPermaLink="false">decrypt-tt-382716-72f0dd7abb</guid>
+      <pubDate>Fri, 06 Nov 2026 16:35:28 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382716-72f0dd7abb.jpg" length="302695" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382716-72f0dd7abb.jpg" type="image/jpeg" medium="image" fileSize="302695" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382716-72f0dd7abb.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic</title>
+      <link>https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic</link>
+      <description>The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptomarket #binance #bitcoin #ethereum</description>
+      <guid isPermaLink="false">decrypt-tt-382711-c914ad09a4</guid>
+      <pubDate>Fri, 06 Nov 2026 15:01:29 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382711-c914ad09a4.jpg" length="363368" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382711-c914ad09a4.jpg" type="image/jpeg" medium="image" fileSize="363368" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382711-c914ad09a4.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI</title>
+      <link>https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai</link>
+      <description>The Tesla CEO said the Texas plant will make room for the Cybercab, as sales of the stainless-steel pickup run far below capacity.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #ai</description>
+      <guid isPermaLink="false">decrypt-tt-382703-0f952c103e</guid>
+      <pubDate>Fri, 06 Nov 2026 14:56:56 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382703-0f952c103e.jpg" length="463647" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382703-0f952c103e.jpg" type="image/jpeg" medium="image" fileSize="463647" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382703-0f952c103e.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater</title>
+      <link>https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater</link>
+      <description>Thursday marked a massive reversal and historic selloff for AI stocks, and crypto was not immune. What held up the strongest?
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #bitcoin #ai</description>
+      <guid isPermaLink="false">decrypt-tt-382700-24ec497e30</guid>
+      <pubDate>Fri, 06 Nov 2026 14:49:29 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382700-24ec497e30.jpg" length="420574" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382700-24ec497e30.jpg" type="image/jpeg" medium="image" fileSize="420574" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382700-24ec497e30.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations</title>
+      <link>https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations</link>
+      <description>Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #cybersecurity #ai</description>
+      <guid isPermaLink="false">decrypt-tt-382695-9725b9ce6e</guid>
+      <pubDate>Fri, 06 Nov 2026 11:05:35 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382695-9725b9ce6e.jpg" length="438370" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382695-9725b9ce6e.jpg" type="image/jpeg" medium="image" fileSize="438370" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382695-9725b9ce6e.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards</title>
+      <link>https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards</link>
+      <description>The Network Sustainability Mechanism will reissue removed ZEC from 2031 within the 21 million cap, as the community debates its dev fund.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #tech #zcash</description>
+      <guid isPermaLink="false">decrypt-tt-382692-5f95c691dc</guid>
+      <pubDate>Fri, 06 Nov 2026 10:24:45 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382692-5f95c691dc.jpg" length="449599" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382692-5f95c691dc.jpg" type="image/jpeg" medium="image" fileSize="449599" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382692-5f95c691dc.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?</title>
+      <link>https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt</link>
+      <description>OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who would make the company comply?
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #ai #cryptonews</description>
+      <guid isPermaLink="false">decrypt-tt-382674-c96daecd58</guid>
+      <pubDate>Thu, 05 Nov 2026 21:40:41 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382674-c96daecd58.jpg" length="377343" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382674-c96daecd58.jpg" type="image/jpeg" medium="image" fileSize="377343" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382674-c96daecd58.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse</title>
+      <link>https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse</link>
+      <description>Led by two senior DOJ officials, the Super Intelligence Task Force will target misuse by foreign governments, criminal groups and fraudsters—while pushing AI developers to tighten internal controls so their systems “behave as intended.”
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #ai</description>
+      <guid isPermaLink="false">decrypt-tt-382672-aa5207df5e</guid>
+      <pubDate>Thu, 05 Nov 2026 21:03:52 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382672-aa5207df5e.jpg" length="672489" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382672-aa5207df5e.jpg" type="image/jpeg" medium="image" fileSize="672489" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382672-aa5207df5e.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Zcash Upgrade Could Lock $16 Million in Crypto Forever</title>
+      <link>https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto</link>
+      <description>Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawals, potentially leaving their owners empty-handed.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptomarket #zcash</description>
+      <guid isPermaLink="false">decrypt-tt-382663-508e443c07</guid>
+      <pubDate>Thu, 05 Nov 2026 19:51:11 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382663-508e443c07.jpg" length="414976" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382663-508e443c07.jpg" type="image/jpeg" medium="image" fileSize="414976" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382663-508e443c07.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them</title>
+      <link>https://decrypt.co/382632/openai-linux-security-flaws-exploit</link>
+      <description>An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #ai #cybersecurity</description>
+      <guid isPermaLink="false">decrypt-tt-382632-0369336e14</guid>
+      <pubDate>Thu, 05 Nov 2026 19:21:54 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382632-0369336e14.jpg" length="316671" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382632-0369336e14.jpg" type="image/jpeg" medium="image" fileSize="316671" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/382632-0369336e14.jpg" width="1080" height="1350" />
+    </item>
+  </channel>
+</rss>
