@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Decrypt Instagram tiles</title>
+    <link>https://decrypt.co</link>
+    <description>Branded Instagram tiles + captions for new Decrypt stories (auto-generated; one item per post).</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Nov 2026 19:22:18 GMT</lastBuildDate>
+    <ttl>5</ttl>
+    <atom:link href="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It</title>
+      <link>https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots</link>
+      <description>The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #ai #cryptonews</description>
+      <guid isPermaLink="false">decrypt-ig-383750-bfa1382973</guid>
+      <pubDate>Sat, 21 Nov 2026 19:22:18 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383750-bfa1382973.jpg" length="339849" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383750-bfa1382973.jpg" type="image/jpeg" medium="image" fileSize="339849" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383750-bfa1382973.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting</title>
+      <link>https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting</link>
+      <description>Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure on the chipmaker after Jensen Huang’s resignation.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #cryptoregulation #ai</description>
+      <guid isPermaLink="false">decrypt-ig-383744-136a6610ed</guid>
+      <pubDate>Fri, 20 Nov 2026 20:52:19 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383744-136a6610ed.jpg" length="392022" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383744-136a6610ed.jpg" type="image/jpeg" medium="image" fileSize="392022" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383744-136a6610ed.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion</title>
+      <link>https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion</link>
+      <description>Anthropic’s IPO made FTX’s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptomarket #ai</description>
+      <guid isPermaLink="false">decrypt-ig-383739-2965995a23</guid>
+      <pubDate>Fri, 20 Nov 2026 19:51:33 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383739-2965995a23.jpg" length="405797" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383739-2965995a23.jpg" type="image/jpeg" medium="image" fileSize="405797" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383739-2965995a23.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure</title>
+      <link>https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure</link>
+      <description>The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker’s Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #ai #ethereum #solana</description>
+      <guid isPermaLink="false">decrypt-ig-383737-17f6b4d6ab</guid>
+      <pubDate>Fri, 20 Nov 2026 18:49:32 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383737-17f6b4d6ab.jpg" length="287549" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383737-17f6b4d6ab.jpg" type="image/jpeg" medium="image" fileSize="287549" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383737-17f6b4d6ab.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks</title>
+      <link>https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent</link>
+      <description>Gemini's new Mac computer-use feature navigates apps, files, and websites in a separate window, but Google's own documentation warns about prompt injection.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #ai #cryptonews</description>
+      <guid isPermaLink="false">decrypt-ig-383733-2b3093da5b</guid>
+      <pubDate>Fri, 20 Nov 2026 18:20:41 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383733-2b3093da5b.jpg" length="484139" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383733-2b3093da5b.jpg" type="image/jpeg" medium="image" fileSize="484139" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383733-2b3093da5b.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host</title>
+      <link>https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host</link>
+      <description>Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptomarket #cybersecurity</description>
+      <guid isPermaLink="false">decrypt-ig-383732-e3d1313266</guid>
+      <pubDate>Fri, 20 Nov 2026 17:47:24 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383732-e3d1313266.jpg" length="453064" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383732-e3d1313266.jpg" type="image/jpeg" medium="image" fileSize="453064" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383732-e3d1313266.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February</title>
+      <link>https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest</link>
+      <description>Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptomarket #bitcoin #ai</description>
+      <guid isPermaLink="false">decrypt-ig-383702-338faed94a</guid>
+      <pubDate>Fri, 20 Nov 2026 16:38:38 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383702-338faed94a.jpg" length="416575" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383702-338faed94a.jpg" type="image/jpeg" medium="image" fileSize="416575" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383702-338faed94a.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death</title>
+      <link>https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death</link>
+      <description>Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #predictionmarkets #cryptoregulation #polygon</description>
+      <guid isPermaLink="false">decrypt-ig-383700-88673cfa57</guid>
+      <pubDate>Fri, 20 Nov 2026 16:11:37 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383700-88673cfa57.jpg" length="503554" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383700-88673cfa57.jpg" type="image/jpeg" medium="image" fileSize="503554" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383700-88673cfa57.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Morning Minute: Anthropic IPO Pops, Sinks Markets</title>
+      <link>https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets</link>
+      <description>A (brief) win for Anthropic's ANT stock on IPO day meant a loss for just about every other major asset class.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #ai</description>
+      <guid isPermaLink="false">decrypt-ig-383691-e89f34a41e</guid>
+      <pubDate>Fri, 20 Nov 2026 13:27:08 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383691-e89f34a41e.jpg" length="306133" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383691-e89f34a41e.jpg" type="image/jpeg" medium="image" fileSize="306133" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383691-e89f34a41e.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K</title>
+      <link>https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k</link>
+      <description>Thursday's ETF outflow was the funds' biggest in three weeks, as rising Treasury yields and Fed rate hike bets weigh on crypto.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptomarket #bitcoin #bitcoinetf #federalreserve</description>
+      <guid isPermaLink="false">decrypt-ig-383685-93a6493f0e</guid>
+      <pubDate>Fri, 20 Nov 2026 11:58:42 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383685-93a6493f0e.jpg" length="412578" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383685-93a6493f0e.jpg" type="image/jpeg" medium="image" fileSize="412578" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383685-93a6493f0e.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Coinbase Targets In-House Prediction Markets by First Half of 2027: Report</title>
+      <link>https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report</link>
+      <description>The exchange offers event contracts through Kalshi, but running its own would give it more control and a bigger share of trading revenue.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #coinbase #predictionmarkets</description>
+      <guid isPermaLink="false">decrypt-ig-383682-b1d31db06d</guid>
+      <pubDate>Fri, 20 Nov 2026 11:53:42 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383682-b1d31db06d.jpg" length="345313" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383682-b1d31db06d.jpg" type="image/jpeg" medium="image" fileSize="345313" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383682-b1d31db06d.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default</title>
+      <link>https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default</link>
+      <description>The UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #defi #cryptoregulation</description>
+      <guid isPermaLink="false">decrypt-ig-383679-9d5dcd3113</guid>
+      <pubDate>Fri, 20 Nov 2026 10:18:10 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383679-9d5dcd3113.jpg" length="290310" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383679-9d5dcd3113.jpg" type="image/jpeg" medium="image" fileSize="290310" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383679-9d5dcd3113.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price</title>
+      <link>https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price</link>
+      <description>Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptomarket #ai</description>
+      <guid isPermaLink="false">decrypt-ig-383669-bf7395d65a</guid>
+      <pubDate>Thu, 19 Nov 2026 21:17:42 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383669-bf7395d65a.jpg" length="448937" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383669-bf7395d65a.jpg" type="image/jpeg" medium="image" fileSize="448937" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383669-bf7395d65a.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature</title>
+      <link>https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature</link>
+      <description>A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #tech #bitcoin</description>
+      <guid isPermaLink="false">decrypt-ig-383666-d68faad217</guid>
+      <pubDate>Thu, 19 Nov 2026 21:06:40 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383666-d68faad217.jpg" length="448679" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383666-d68faad217.jpg" type="image/jpeg" medium="image" fileSize="448679" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383666-d68faad217.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Hackers Leak Visa, Mastercard and JPMorgan Customer Data</title>
+      <link>https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data</link>
+      <description>A ransomware group breached third-party vendors, not the companies’ own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #cybersecurity</description>
+      <guid isPermaLink="false">decrypt-ig-383663-b04cb27ff0</guid>
+      <pubDate>Thu, 19 Nov 2026 20:21:16 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383663-b04cb27ff0.jpg" length="371098" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383663-b04cb27ff0.jpg" type="image/jpeg" medium="image" fileSize="371098" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383663-b04cb27ff0.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street</title>
+      <link>https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo</link>
+      <description>Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptomarket #bitcoin #ai</description>
+      <guid isPermaLink="false">decrypt-ig-383655-84d81fcfe5</guid>
+      <pubDate>Thu, 19 Nov 2026 19:12:07 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383655-84d81fcfe5.jpg" length="534248" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383655-84d81fcfe5.jpg" type="image/jpeg" medium="image" fileSize="534248" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383655-84d81fcfe5.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks</title>
+      <link>https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks</link>
+      <description>At least four people were arrested outside Nasdaq during Anthropic’s historic IPO, as protesters warned that AI valuations could leave retirement savers exposed to a potential market crash and broader economic losses.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #ai</description>
+      <guid isPermaLink="false">decrypt-ig-383642-36a06b7113</guid>
+      <pubDate>Thu, 19 Nov 2026 18:14:28 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383642-36a06b7113.jpg" length="455336" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383642-36a06b7113.jpg" type="image/jpeg" medium="image" fileSize="455336" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383642-36a06b7113.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>What Are Perpetual Futures? How Crypto's Most Popular Derivative Works</title>
+      <link>https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works</link>
+      <description>Perpetual futures let traders bet on prices with leverage and no expiry date. Here's how they work, and why they dominate crypto trading.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #web3</description>
+      <guid isPermaLink="false">decrypt-ig-383639-c4f1bd8f8b</guid>
+      <pubDate>Thu, 19 Nov 2026 17:49:16 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383639-c4f1bd8f8b.jpg" length="431650" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383639-c4f1bd8f8b.jpg" type="image/jpeg" medium="image" fileSize="431650" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383639-c4f1bd8f8b.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Anthropic Stock Indicated to Open 33% Above IPO Price as AI Stocks Rally</title>
+      <link>https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price</link>
+      <description>The Claude maker's shares could debut at $110, pushing its valuation toward $2 trillion as enthusiasm for its historic IPO lifts the broader technology sector.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #ai</description>
+      <guid isPermaLink="false">decrypt-ig-383631-f4f034e1f7</guid>
+      <pubDate>Thu, 19 Nov 2026 16:59:56 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383631-f4f034e1f7.jpg" length="386718" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383631-f4f034e1f7.jpg" type="image/jpeg" medium="image" fileSize="386718" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383631-f4f034e1f7.jpg" width="1080" height="1350" />
+    </item>
+    <item>
+      <title>Anthropic Tops SpaceX's Initial IPO With $81 Billion Deal: Where the Money Went</title>
+      <link>https://decrypt.co/383623/anthropic-tops-spacex-initial-ipo-81-billion-deal-where-the-money-went</link>
+      <description>The Claude maker beat SpaceX's original share sale, though not its expanded final IPO. Here's who got the money and why the computing bill could be even bigger.
+
+🔗 Full story at decrypt.co (link in bio)
+
+#crypto #cryptonews #ai</description>
+      <guid isPermaLink="false">decrypt-ig-383623-5da1c12f4d</guid>
+      <pubDate>Thu, 19 Nov 2026 16:20:40 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383623-5da1c12f4d.jpg" length="318339" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383623-5da1c12f4d.jpg" type="image/jpeg" medium="image" fileSize="318339" width="1080" height="1350" />
+      <media:thumbnail url="https://raw.githubusercontent.com/simhyper-rgb/decrypt-ig/main/tiles/383623-5da1c12f4d.jpg" width="1080" height="1350" />
+    </item>
+  </channel>
+</rss>
